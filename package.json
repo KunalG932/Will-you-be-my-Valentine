@@ -4,11 +4,11 @@
   "version": "1.0.0",
   "type": "module",
   "description": "A beautiful Valentine's Day web application with music and romantic messages",
-  "author": "Your Name",
+  "author": "Kunal Gaikwad",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "tsc && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "format": "prettier --write \"src/**/*.{ts,tsx}\"",
