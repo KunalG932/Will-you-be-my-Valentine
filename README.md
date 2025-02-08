@@ -15,7 +15,7 @@ A beautiful and interactive Valentine's Day web application built with React and
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/KunalG932/Will-you-be-my-Valentine.git
 ```
 
 2. Install dependencies:
@@ -37,27 +37,6 @@ npm run dev
 - TailwindCSS
 - Lucide Icons
 - SoundCloud API
-
-## 📦 Project Structure
-
-```
-src/
-  ├── components/
-  │   ├── MusicPlayer.tsx    # Background music and floating notes
-  │   ├── SecretMessage.tsx  # Valentine's messages component
-  │   └── BackgroundMusic.tsx
-  ├── styles/
-  │   └── globals.css
-  └── pages/
-      └── index.tsx
-```
-
-## 🎨 Customization
-
-You can customize the following:
-- Valentine's messages in `SecretMessage.tsx`
-- Music playlist in `MusicPlayer.tsx`
-- Colors and animations in the CSS
 
 ## 📄 License
 
